@@ -1,4 +1,15 @@
 def main():
+    # File: ARK.py
+    # Description: Print out my initials
+    # Assignment Number: Assignment Number 2
+    #
+    # Name: Ansah Ricky Kwesi
+    # STUDENT ID:  2425400222
+    # Email: 2425400222.live.gctu.edu.gh
+    # Grader: <YOUR GRADER'S NAME Carolyn OR Emma or Ahmad>
+    #
+    # On my honor, Ansah Ricky Kwesi, this programming assignment is my own work
+    # and I have not provided this code to any other student.
 
     print()
     print("...ARK")
