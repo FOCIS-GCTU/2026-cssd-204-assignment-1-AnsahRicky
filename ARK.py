@@ -1,0 +1,17 @@
+def main():
+
+    print()
+    print("...ARK")
+    print()
+    print(".......AAA........**...RRRRRRRRR......**...KK.......KKK...**")
+    print("......AAAAA.......**...RR......RRR....**...KK......KK.....**")
+    print(".....AAA.AAA......**...RR......RRR....**...KK.....KK......**")
+    print(".....AAA..AAA.....**...RR.....RRRR....**...KK....KK.......**")
+    print("....AAA...AAA.....**...RR...RRRRR.....**...KK..KKK........**")
+    print("....AAAAAAAAAA....**...RRRRRRRR.......**...KKKKK..........**")
+    print("....AAA....AAA....**...RR.....RRR.....**...KK....KKK......**")
+    print("...AAAA....AAAA...**...RR......RRR....**...KK......KK.....**")
+    print("...AAA......AAA...**...RR......RRR....**...KK.......KK....**")
+    print("...AAA......AAA...**...RR.......RRR...**...KK........KK...**")
+    print()
+main()
